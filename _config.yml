@@ -1,46 +1,34 @@
 # Title of your homepage
-title: ChangeLog of Brandname #(required)
+title: BloxTech Applications • Changelog #(required)
 
 # Website Description for search engines (optional)
-description: "Keep yourself up to date with our new product features"
+description: "Keep yourself up to date with new features at BloxTech Applications"
 
 # replace this word in navigation bar. Ex: Productnews, ChangeLog, Updates
-heading: Updates # (optional)
+heading: Changelog # (optional)
 
 # absolute or relative path of logo
-logo: /assets/images/logo.png #(required)
+logo: https://bloxtech.tech/admin/applications/assets/img/Untitled.png #(required)
 
 # Your Product's Website
-website: https://changelog.site # (required)
+website: https://bloxtech.tech # (required)
 
 # the base hostname & protocol for your site, 
 # e.g. https://updates.changelog.site
 # Note Don't put trailing slash https://updates.changelog.site/
-url: "https://updates.changelog.site"  # (required)
+url: "https://changelog.bloxtech.tech"  # (required)
 
 baseurl: '' # optional
 
 
 # Github username/repo where your code is hosted.
-github: changelogsite/changelog # (required)
-
-# remove this line if don't want to show Github Star Badge
-star-badge: true  #(optional)
-
-# remove this line if don't want to show Github Watch Badge
-watch-badge: true #(optional)
-
-# Show rss feed icon in menubar. To disable this comment below line by adding # as first character.
-rss-feed-icon: true #(optional)
+github: chrissie1234/changelog # (required)
 
 # Global site tag (gtag.js) - Google Analytics e.g. UA-MYANALYTICS
 analytics:  #(recommended)
 
-# https://changelog-site.disqus.com
-# disqus-identifier: changelog-site  # (optional)
-
 # Allow users to comment via facebook
-fb-comment: true
+fb-comment: false
 
 # Allow search engines to index your changelog website
 allow-searchengine: true #optional
