@@ -5,7 +5,7 @@ title: BloxTech Applications • Changelog #(required)
 description: "Keep yourself up to date with new features at BloxTech Applications"
 
 # replace this word in navigation bar. Ex: Productnews, ChangeLog, Updates
-heading: Changelog # (optional)
+heading: BloxTech Applications • Changelog # (optional)
 
 # absolute or relative path of logo
 logo: https://bloxtech.tech/admin/applications/assets/img/Untitled.png #(required)
