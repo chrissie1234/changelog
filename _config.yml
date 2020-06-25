@@ -22,7 +22,7 @@ baseurl: '' # optional
 
 
 # Github username/repo where your code is hosted.
-github: chrissie1234/changelog # (required)
+github: changelogsite/changelog # (required)
 
 # Global site tag (gtag.js) - Google Analytics e.g. UA-MYANALYTICS
 analytics:  #(recommended)
